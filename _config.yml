@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Discrete Mathematics
-#tagline: SHNU FALL 2023
+tagline: Discrete Mathematics FALL 2023
 #description: Intro to Computer Science
 author: Qizhe Yang
 baseurl: '/' # the subpath of your site, e.g. /blog
@@ -65,8 +65,8 @@ compress_html:
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
-ga_tracking: UA-143332212-2
-ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
+#ga_tracking: UA-143332212-2
+#ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
 plugins:
   - jekyll-seo-tag
