@@ -27,7 +27,10 @@ See the [Syllabus page](syllabus.md) for more details on course policies.
 
 To be continued.
 
-## Schedules
-{% for module in site.modules %}
-{{ module }}
+
+# Announcements
+
+{% assign announcements = site.announcements | reverse %}
+{% for announcement in announcements %}
+{{ announcement }}
 {% endfor %}
