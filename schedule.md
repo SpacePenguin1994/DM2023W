@@ -5,6 +5,8 @@ description: The weekly event schedule.
 ---
 
 # Weekly Schedule
+This schedule outlines all topics of the course and has links to all lecture slides, both in chinese and english.
 
-For virtual events events, please join via the Zoom or Meet link in the calendar event description.
-
+{% for module in site.modules %}
+{{ module }}
+{% endfor %}
