@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CSCI 100
-tagline: Howard CSCI 100 Fall 2021
-description: Intro to Computer Science
-author: Alexander Krentsel
+title: Discrete Mathematics
+#tagline: SHNU FALL 2023
+#description: Intro to Computer Science
+author: Qizhe Yang
 baseurl: '/' # the subpath of your site, e.g. /blog
-url: 'https://csci100.org' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://spacepenguin1992.github.io/DM2023W' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
@@ -28,16 +28,6 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  YouTube Channel:
-    - 'https://www.youtube.com/channel/UCS-xiMGMN9YsMxQnqAai4hw/featured'
-  PythonTutor:
-    - 'https://pythontutor.com/composingprograms.html#mode=edit'
-  Mimir:
-    - 'https://class.mimir.io/courses/ea69c458-7197-4411-af4e-50754e398f64'
-  Piazza:
-    - 'https://piazza.com/class/ksjaetb15k147d'
-  Blackboard:
-    - 'http://blackboard.howard.edu/'
 aux_links_new_tab: true
 footer_content:
 
@@ -49,12 +39,6 @@ collections:
   announcements:
 # Default layouts for each collection type
 defaults:
-  - scope:
-      path: ''
-      type: staffers
-    values:
-      layout: staffer
-      subpath: '/assets/images/'
   - scope:
       path: ''
       type: modules
