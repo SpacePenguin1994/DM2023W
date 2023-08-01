@@ -33,7 +33,6 @@ footer_content:
 
 # Collections for website data
 collections:
-  staffers:
   modules:
   schedules:
   announcements:
