@@ -4,7 +4,7 @@ title: Home
 nav_exclude: true
 seo:
   type: Course
-  name: CSCI100 Howard
+  name: Discrete Mathematics, SHNU
 ---
 
 # {{ site.tagline }}
