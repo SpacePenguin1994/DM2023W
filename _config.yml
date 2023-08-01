@@ -36,6 +36,7 @@ collections:
   modules:
   schedules:
   announcements:
+  syllabus:
 # Default layouts for each collection type
 defaults:
   - scope:
@@ -53,6 +54,11 @@ defaults:
       type: announcements
     values:
       layout: announcement
+  - scope:
+      path: 'syllabus.md'
+      type: syllabus
+    values:
+      layout: syllabus
 
 compress_html:
   clippings: all
