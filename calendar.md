@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Calendar
+title: To be determined.
 description: Listing of course modules and topics.
 ---
 
-# Calendar
+# To be determined.
 This calendar outlines all topics of the course and has links to all lecture videos and slides.
 
-{% for module in site.modules %}
-{{ module }}
-{% endfor %}
+
