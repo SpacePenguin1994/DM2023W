@@ -23,6 +23,10 @@ To be continued.
 
 See the [Syllabus page](syllabus.md) for more details on course policies.
 
+## Course Information
+
+To be continued.
+
 ## Schedules
 {% for module in site.modules %}
 {{ module }}
