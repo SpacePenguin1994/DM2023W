@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Discrete Mathematics
 tagline: Discrete Mathematics FALL 2023
-#description: Intro to Computer Science
+description: This is a website for the course Discrete Mathematics of SHNU in FALL 2023
 author: Qizhe Yang
 baseurl: '/' # the subpath of your site, e.g. /blog
 url: 'https://spacepenguin1992.github.io/DM2023W' # the base hostname & protocol for your site, e.g. http://example.com
