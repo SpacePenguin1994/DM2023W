@@ -25,7 +25,7 @@ See the [Syllabus page](syllabus.md) for more details on course policies.
 
 ## Course Information
 
-To be continued.
+Test for update.
 
 
 # Announcements
