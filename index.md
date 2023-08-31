@@ -19,7 +19,10 @@ seo:
 
 ## About the Class
 
-To be continued.
+Discrete Mathematics is the mathematical foundation of computer science. Within this course, students will acquire a specific collection of mathematical principles and learn how to apply them. Significantly, the course will cultivate logical and mathematical thinking abilities among students. To accomplish these objectives, the course will cover the following topics: Logic, Set Theory, Algebraic Structures, Combinatorics, Graph Theory, and Elementary Number Theory. 
+Upon completing this course, students will have obtained a solid grasp of all the requisite mathematical foundations necessary for their future studies in computer science.
+
+Enjoy the class!
 
 See the [Syllabus page](syllabus.md) for more details on course policies.
 
