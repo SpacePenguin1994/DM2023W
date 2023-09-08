@@ -17,7 +17,7 @@ title: Discrete Mathematics
 tagline: Discrete Mathematics FALL 2023
 description: Course Website for Discrete Mathematics at SHNU in FALL 2023
 author: Qizhe Yang
-baseurl: ' ' # the subpath of your site, e.g. /blog
+baseurl:  # the subpath of your site, e.g. /blog
 url: 'http://www.dm2023w.spacepenguin.com.cn' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
