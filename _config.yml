@@ -55,7 +55,7 @@ defaults:
     values:
       layout: announcement
   - scope:
-      path: 'syllabus.md'
+      path: ''
       type: syllabus
     values:
       layout: syllabus
