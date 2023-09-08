@@ -36,12 +36,11 @@ You are encouraged to collaborate with your classmates or utilize online resourc
 
 ### Homework
 
-To be finished.
+TBA.
 
 ### Final Exam
 
-To be finished.
-
+TBA.
 ### Grades
 
 Students' grades**Grade**{:.label.label-green} will be determined by the following  two components:
