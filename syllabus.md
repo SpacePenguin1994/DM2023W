@@ -55,7 +55,7 @@ The final grade will be calculated using the following equation:
 
 ## Resources
 
-This course website, [Discrete Mathematics](../DM2023W/index.md), will be your one-stop resource for the syllabus, schedule and homework links. 
+This course website, [Discrete Mathematics](../), will be your one-stop resource for the syllabus, schedule and homework links. 
 
 **Reference**
 
