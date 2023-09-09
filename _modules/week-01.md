@@ -4,10 +4,10 @@ title: Week 1
 
 Sep 11
 : **Introduction to Discrete Mathematics**
-  :  \[[slides-zh](../pdf/slides/0-overview.pdf)\]
+  :  \[[slides-zh](basics.sjtu.edu.cn/~yangqizhe/pdf/dm2023w/slides/0-overview-zh.pdf)\]
 : **Propositional Logic(I)**
-  :  \[[slides-zh](../pdf/slides/0-overview.pdf)\]
-:  **HW**{: .label .label-red }Released: [HW1](../pdf/homework)  **DUE**{: .label .label-green} Sep 19  00:00
+  :  \[[slides-zh](basics.sjtu.edu.cn/~yangqizhe/pdf/dm2023w/slides/1-propositonlogic-zh.pdf)\]
+:  **HW**{: .label .label-red }Released: [HW1](basics.sjtu.edu.cn/~yangqizhe/pdf/dm2023w/homework/DM-hw1.pdf)  **DUE**{: .label .label-green} Sep 19  00:00
 
 Sep 15
 : **Propositional Logic(II)**
