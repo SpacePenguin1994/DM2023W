@@ -7,7 +7,7 @@ Sep 11
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2023w/slides/0-overview-zh.pdf)\]
 : **Propositional Logic(I)**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2023w/slides/1-propositonlogic-zh.pdf)\]
-:  **HW**{: .label .label-red }Released: [HW1](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2023w/homework/DM-hw1.pdf)  **DUE**{: .label .label-yellow} Sep 18  23:59
+:  **HW**{: .label .label-red }Released: [Homework #1](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2023w/homework/DM-hw1.pdf)  **DUE**{: .label .label-yellow} Sep 18  23:59
 
 Sep 15
 : **Propositional Logic(II)**
