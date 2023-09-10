@@ -3,7 +3,7 @@ title: Week 1
 ---
 
 Sep 11
-: **Introduction to Discrete Mathematics**
+: **Overview**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2023w/slides/0-overview-zh.pdf)\]
 : **Propositional Logic(I)**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2023w/slides/1-propositonlogic-zh.pdf)\]
