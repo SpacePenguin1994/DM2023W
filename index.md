@@ -36,6 +36,14 @@ See the [Syllabus page](syllabus.md) for more details on course policies.
  For more details about the class, see the [Schedule page](schedule.md).
 
 
+## Course Feedback
+
+We have set up a course questionnaire:
+- [《离散数学》课程调查问卷](https://www.wjx.cn/vm/tFwQjuk.aspx#)
+
+Everyone is welcome to submit his/her questions or suggestions about this course.
+
+
 # Announcements
 
 {% assign announcements = site.announcements | reverse %}
