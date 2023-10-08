@@ -4,9 +4,9 @@ title: Week 5
 
 Oct 9
 : **Predicate Logic(I)**
-<!-->:  :  \[[slides-zh](../pdf/slides/0-overview-zh.pdf)\]\[[slides-en](../pdf/slides/0-overview-en.pdf)\]
-  **HW**{: .label .label-red }Released: [HW2](../pdf/homework)  **DUE**{: .label .label-green} Sep 16  00:00
-<-->
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2023w/slides/DMLec4-handout-zh.pdf)\]
+:  **HW**{: .label .label-red }Released: [Homework #4](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2023w/homework/DM-hw4.pdf)  **DUE**{: .label .label-yellow} Oct 16  23:59
+
 Oct 13
 : **Predicate Logic(II)**
 
