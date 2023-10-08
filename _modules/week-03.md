@@ -9,6 +9,7 @@ Sep 25
 
 Oct 8
 : **Inference theory for Propositional Logic(II)**
+: **Notes**{: .label .label-green} A notes for the class: [Notes for Lec3](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2023w/slides/NotesForLec3.pdf)
 
 
 
