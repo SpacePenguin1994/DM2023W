@@ -7,7 +7,6 @@ Oct 23
 : **Set Theory(I)**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2023w/slides/DMLec6-handout-zh.pdf)\]
 
-
 Oct 27
 : **Set Theory(II)**
 
