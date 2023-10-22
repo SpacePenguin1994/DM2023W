@@ -3,10 +3,11 @@ title: Week 7
 ---
 
 Oct 23
+: **Predicate Logic(III)**
 : **Set Theory(I)**
-<!-->:  :  \[[slides-zh](../pdf/slides/0-overview-zh.pdf)\]\[[slides-en](../pdf/slides/0-overview-en.pdf)\]
-  **HW**{: .label .label-red }Released: [HW2](../pdf/homework)  **DUE**{: .label .label-green} Sep 16  00:00
-<-->
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2023w/slides/DMLec6-handout-zh.pdf)\]
+
+
 Oct 27
 : **Set Theory(II)**
 

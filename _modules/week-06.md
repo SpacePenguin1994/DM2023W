@@ -8,7 +8,7 @@ Oct 16
 :  **HW**{: .label .label-red }Released: [Homework #5](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2023w/homework/DM-hw5.pdf)  **DUE**{: .label .label-yellow} Oct 23  23:59
 
 Oct 20
-: **Predicate Logic(Iv)**
+: **Predicate Logic(IV)**
 
 
 
