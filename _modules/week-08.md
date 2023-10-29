@@ -3,13 +3,12 @@ title: Week 8
 ---
 
 Oct 30
-: **Binary Relation(I)**
-<!-->:  :  \[[slides-zh](../pdf/slides/0-overview-zh.pdf)\]\[[slides-en](../pdf/slides/0-overview-en.pdf)\]
-  **HW**{: .label .label-red }Released: [HW2](../pdf/homework)  **DUE**{: .label .label-green} Sep 16  00:00
-<-->
+: **Relation(I)**
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2023w/slides/DMLec7-handout-zh.pdf)\]
+
 
 Nov 3
-: **Binary Relation(II)**
+: **Relation(II)**
 
 
   
