@@ -4,7 +4,7 @@ title: Week 10
 
 Nov 13
 
-: This class has been delayed due to the accidence of the instructor. The new time will be decided later.
+: This class has been delayed due to the accident of the instructor. The new time will be decided later.
 
 Nov 17
 : **Function(I)**
