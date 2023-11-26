@@ -7,7 +7,7 @@ Nov 20
 
 
 Nov 24
-: **Combinatorics: Recurrence Relations and Genrating Functions(II)**
+: **Function(III)**
 
 
 
