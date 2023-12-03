@@ -6,7 +6,7 @@ Oct 30
 : **Relation(I)**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2023w/slides/DMLec7-handout-zh.pdf)\]
 :  **HW**{: .label .label-red }Released: [Homework #7](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2023w/homework/DM-hw7.pdf)  **DUE**{: .label .label-yellow} Nov 6  23:59
-： **Sol**{: .label .label-green }Released: [Homework #7 solution](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2023w/homework/DM-hw7sol.pdf)
+：**Sol**{: .label .label-green }Released: [Homework #7 solution](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2023w/homework/DM-hw7sol.pdf)
 Nov 3
 : **Relation(II)**
 
