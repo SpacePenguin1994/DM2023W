@@ -6,7 +6,7 @@ date: 2023-12-28
 
 Hey everyone, here're two notifications:
 
-- The solutions for Homework #3 to Homework #8 have been released. For more information, please see the [Schedule](../schedule). The remaining solutions will soon be released.
+- The solutions for Homework #310to Homework #13 will soon be released. 
   
 - Kindly mark your calendars with the details for the final exam:
     - Date and Time: January 10, 2024, from 8:30 a.m. to 10:00 a.m.
