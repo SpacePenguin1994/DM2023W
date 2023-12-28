@@ -35,6 +35,9 @@ See the [Syllabus page](syllabus.md) for more details on course policies.
 
  For more details about the class, see the [Schedule page](schedule.md).
 
+## Final Exam
+
+The final exam is scheduled for **January 10, 2024, from 8:30 a.m. to 10:00 a.m.** , and will be held in <font color="#dd0000"> 奉贤2教楼221</font> . Please note that it will be a **closed-book** exam.
 
 ## Course Feedback
 
@@ -43,6 +46,13 @@ We have set up a course questionnaire:
 
 Everyone is welcome to submit his/her questions or suggestions about this course.
 
+**Updated in Dec 28, 2023**
+
+Since we will finish the course in the next week, we have set up a new questionnaire for collecting the feedback of this course:
+
+- [《离散数学》完课调查问卷](https://www.wjx.cn/vm/tzywDrz.aspx#)
+
+The questionnaire is not mandatory, but I will appreciate it if you can spend a few minutes to fill it out. Thank you!
 
 # Announcements
 
